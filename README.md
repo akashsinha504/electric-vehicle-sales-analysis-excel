@@ -12,6 +12,9 @@ This project analyzes electric vehicle (EV) sales data to identify market trends
 
 ---
 
+## Dashboard
+(Dashboard.png)
+
 ##  Dataset
 
 * Source: Kaggle
