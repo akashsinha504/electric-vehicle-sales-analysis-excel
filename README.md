@@ -1,7 +1,7 @@
 # Electric Vehicle Sales Analysis – Excel Dashboard
 
-##  Problem Statement
-Analyze global EV sales data to identify growth trends, market distribution, and key factors driving adoption.
+## 🎯 Objective
+This project aims to understand EV market trends and support data-driven decision-making for businesses and policymakers.
 
 ---
 
@@ -57,5 +57,5 @@ Analyze global EV sales data to identify growth trends, market distribution, and
 ---
 
 - ##  Dataset
-- Source: (mention Kaggle or source if you used)
+- Source: Kaggle
 - Data includes EV sales, regions, categories, and time periods.
