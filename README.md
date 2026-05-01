@@ -12,8 +12,9 @@ This project analyzes electric vehicle (EV) sales data to identify market trends
 
 ---
 
-## Dashboard
-(Dashboard.png)
+##  Dashboard Preview
+
+![Dashboard](Dashboard/Dashboard.png)
 
 ##  Dataset
 
